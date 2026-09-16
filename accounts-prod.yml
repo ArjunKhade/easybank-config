@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local Production APIs "
   contactDetails:
     name: "Roy Doe - Developer"
-    email: "roydoe@eazybank.com"
+    email: "{cipher}ad40428135349820106e0c1334a501185a2b135f0c52cdeaf8eafe09296d14f91f059f816180ee838cc90cdb7c131a30"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
