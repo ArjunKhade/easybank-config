@@ -3,7 +3,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local Production APIs "
+  message: "Welcome to EazyBank accounts related local PRD APIs "
   contactDetails:
     name: "Roy Doe - Developer"
     email: "{cipher}ad40428135349820106e0c1334a501185a2b135f0c52cdeaf8eafe09296d14f91f059f816180ee838cc90cdb7c131a30"
